@@ -42,7 +42,7 @@ export default function Chats() {
           // height="calc(100vh - 200px)"
           height = "95vh"
           
-          projectID="85cebbcd-28d4-4703-ab03-7a9d77ce9f4b"
+          projectID="5fd53d45-fa19-4e45-bb2f-a8bbc040965f"
           userName={username}
           userSecret={secret}
           renderNewMessageForm={() => <MessageFormSocial />}
